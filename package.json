@@ -1,0 +1,12 @@
+{
+  "name": "roys-sudhan-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal portfolio website with a Google Sheets-backed contact form.",
+  "engines": {
+    "node": ">=18.x"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
